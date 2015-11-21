@@ -1,0 +1,1 @@
+An attempt at graph data structure and related algorithms. (Upd. 2012)
